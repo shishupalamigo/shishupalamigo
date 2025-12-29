@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Shishupal Kumar!
 ---
-#### A programming enthusiast, skilled in Full stack web development with a work experience of 3 years as a Full Stack developer with a focus on backend development.
+#### A programming enthusiast, skilled in Full stack web development with a work experience of 4 years as a Full Stack developer with a focus on backend development.
 
-- 🌱 I'm working as a Full stack Developer at BNED LoudCloud. It's a product based role where I get to use my skills and develop some.   
+- 🌱 I've worked as a Full stack Developer at BNED LoudCloud and AutoPe. Both were product based roles where I got to use my full stack skills and develop some.   
 - ✨ Love to work with JavaScript, NodeJS, Vue JS and React JS. I also have some exposure to other languages like Python and Java.
  
 
